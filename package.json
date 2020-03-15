@@ -1,0 +1,19 @@
+{
+  "name": "nodeginx",
+  "version": "1.0.0",
+  "description": "Vanilla Node.js static http server + dynamic routing + virtual hosts + aliases + redirects + primitive ip block + clusterization",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtemRyaguzov/nodeginx.git"
+  },
+  "author": "Artem Ryaguzov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArtemRyaguzov/nodeginx/issues"
+  },
+  "homepage": "https://github.com/ArtemRyaguzov/nodeginx#readme"
+}
